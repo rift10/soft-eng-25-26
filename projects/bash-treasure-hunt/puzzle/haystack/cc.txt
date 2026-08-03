@@ -1,0 +1,2 @@
+just hay here
+a8c0a252: Secret is in puzzle/base64.txt. Can you decode it?

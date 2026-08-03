@@ -1,0 +1,100 @@
+8fb7b6df: Secret is the last line of the file puzzle/lines.txt
+f28cf562: Secret is the first file of lines.txt
+1c333d23: Secret is line 84 of the file puzzle/lines.txt
+ae436b27: Secret is line 94 of the file puzzle/lines.txt
+d568a5ec: Secret is contents of puzzle/backwards.txt but backwards.
+a38f8482: Secret is contents of puzzle/backwards.txt but backwards.
+00a908c8: Secret is line 7 of the file puzzle/lines.txt
+5e40dc41: Secret is line 59 of the file puzzle/lines.txt
+0fc2eb86: Secret is line 30 of the file puzzle/lines.txt
+779c9e17: Secret is the last file of lines.txt
+8dd7ec0d: Secret is line 95 of the file puzzle/lines.txt
+4c1af79d: Secret is line 13 of the file puzzle/lines.txt
+fa1ac39c: Secret is the last file of lines.txt
+e15e0ec1: Secret is contents of puzzle/backwards.txt but backwards.
+8e92a464: Secret is line 33 of the file puzzle/lines.txt
+1832ffb7: Secret is line 94 of the file puzzle/lines.txt
+b4567f27: Secret is line 46 of the file puzzle/lines.txt
+95c3f22c: Secret is line 82 of the file puzzle/lines.txt
+e1878025: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+08c481d0: Secret is the last file of lines.txt
+6cafa3b9: Secret is line 35 of the file puzzle/lines.txt
+f9e6d65c: Secret is line 55 of the file puzzle/lines.txt
+506098cb: Secret is the first file of lines.txt
+606d3096: Secret is line 33 of the file puzzle/lines.txt
+7482a627: Secret is line 33 of the file puzzle/lines.txt
+09837572: Secret is line 81 of the file puzzle/lines.txt
+3e30d6b9: Secret is line 70 of the file puzzle/lines.txt
+da0f6d5e: Secret is contents of puzzle/backwards.txt but backwards.
+e20f07c3: Secret is line 73 of the file puzzle/lines.txt
+266db8c0: Secret is line 56 of the file puzzle/lines.txt
+dedfe17d: Secret is line 85 of the file puzzle/lines.txt
+6648c4c5: Secret is the last file of lines.txt
+2fba0f16: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+6406fea6: Secret is the first file of lines.txt
+5b4f6ad6: Secret is the last line of the file puzzle/lines.txt
+bc11169e: Secret is line 51 of the file puzzle/lines.txt
+c952bb27: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+f2bdb23e: Secret is line 77 of the file puzzle/lines.txt
+c9dde1e1: Secret is the last file of lines.txt
+38f51394: Secret is line 90 of the file puzzle/lines.txt
+806b60e7: Secret is the first file of lines.txt
+b0045c89: Secret is line 35 of the file puzzle/lines.txt
+cbacd2e9: Secret is the first file of lines.txt
+eddff32d: Secret is line 33 of the file puzzle/lines.txt
+5453c7a8: Secret is line 59 of the file puzzle/lines.txt
+1667b35b: Secret is line 76 of the file puzzle/lines.txt
+91cb6cc3: Secret is line 16 of the file puzzle/lines.txt
+102277de: Secret is line 33 of the file puzzle/lines.txt
+73b54605: Secret is line 1 of the file puzzle/lines.txt
+654faf8c: Secret is the first file of lines.txt
+a643e943: Secret is line 98 of the file puzzle/lines.txt
+dc8f37da: Secret is the last line of the file puzzle/lines.txt
+c944bd34: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+38cadaee: Secret is line 33 of the file puzzle/lines.txt
+e485f0cc: Secret is line 21 of the file puzzle/lines.txt
+bf46e949: Secret is line 23 of the file puzzle/lines.txt
+cd48055c: Secret is contents of puzzle/backwards.txt but backwards.
+3652c813: Secret is line 33 of the file puzzle/lines.txt
+f5391753: Secret is the last line of the file puzzle/lines.txt
+aa6fecb6: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+7796be7f: Secret is line 35 of the file puzzle/lines.txt
+6c21509d: Secret is contents of puzzle/backwards.txt but backwards.
+563b4a28: Secret is the last line of the file puzzle/lines.txt
+97cd2bfb: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+1f64fc09: Secret is line 77 of the file puzzle/lines.txt
+52f816dd: Secret is the first file of lines.txt
+93171f62: Secret is contents of puzzle/backwards.txt but backwards.
+2acf146e: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+a188c783: Secret is contents of puzzle/backwards.txt but backwards.
+c484e80c: Secret is the last line of the file puzzle/lines.txt
+c68c526f: Secret is line 31 of the file puzzle/lines.txt
+37f92e0a: Secret is the last line of the file puzzle/lines.txt
+2ac13980: Secret is line 18 of the file puzzle/lines.txt
+ceb0e30: Secret is contents of puzzle/backwards.txt but backwards.
+0c111ae3: Secret is line 71 of the file puzzle/lines.txt
+2a24a56e: Secret is line 34 of the file puzzle/lines.txt
+a2658707: Secret is the last line of the file puzzle/lines.txt
+2377b74c: Secret is line 44 of the file puzzle/lines.txt
+a5384035: Secret is line 33 of the file puzzle/lines.txt
+c3053e4d: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+87524f30: Secret is line 99 of the file puzzle/lines.txt
+996f545f: Secret is line 8 of the file puzzle/lines.txt
+5b5da723: Secret is line 70 of the file puzzle/lines.txt
+77cc9bb4: Secret is the first file of lines.txt
+32167f8a: Secret is the last line of the file puzzle/lines.txt
+1524406c: Secret is line 66 of the file puzzle/lines.txt
+08162a1b: Secret is line 40 of the file puzzle/lines.txt
+eb3538dd: Secret is the last file of lines.txt
+e7a0ac2f: Secret is the middle file of lines.txt
+53039192: Secret is line 33 of the file puzzle/lines.txt
+4fe70098: Secret is line 4 of the file puzzle/lines.txt
+1a07ce00: Secret is line 51 of the file puzzle/lines.txt
+c35f0c9d: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+333b0cc9: Secret is the line of the file puzzle/lines.txt whose SHA-256 is in puzzle/lines-sha.txt
+8f6b5bbb: Secret is line 56 of the file puzzle/lines.txt
+f76cd07a: Secret is line 57 of the file puzzle/lines.txt
+5a3ab4bf: Secret is line 34 of the file puzzle/lines.txt
+0ce9644f: Secret is the last line of the file puzzle/lines.txt
+5cb5c4a8: Secret is line 7 of the file puzzle/lines.txt
+e1e12e90: Secret is line 33 of the file puzzle/lines.txt

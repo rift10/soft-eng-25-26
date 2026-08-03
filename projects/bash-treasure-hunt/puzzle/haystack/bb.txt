@@ -1,0 +1,2 @@
+just hay here
+c47b9a19: Secret is in puzzle/base64.txt. Can you decode it?

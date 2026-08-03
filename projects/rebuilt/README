@@ -1,0 +1,14 @@
+# Rebuilt Game Simulator
+- [x] Make gray rectangle for field
+- [x] Create player robot
+- [x] Translational movement
+- [x] Rotational movement
+- [x] Make npc bot
+- [x] Limit movement at bounds
+- [x] Add circles for fuel
+- [ ] Add collision physics w/ walls and balls
+- [ ] Have 6 robots going in random directions
+- [ ] Create field zones
+- [x] Make robots able to carry fuels
+- [ ] Make robots able to shoot fuels
+- [ ] Add robot roles (shooter, passer, defender)

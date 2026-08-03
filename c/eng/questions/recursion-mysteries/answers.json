@@ -1,0 +1,10 @@
+[
+  "it adds all the numbers from 0-n",
+  "it adds all the numbers in the array from index i to the end of the array",
+  "it returns the count of all the times the letter x appears in the given string",
+  "returns a count of how many times the second string appears in the first",
+  "returns a count of how many times the second string appears in the first only when the instances of the second string don't overlap",
+  "returns the length of the string",
+  "returns a boolean of whether the second string is found in the first",
+  "returns true if all the numbers from index i to end in the array are even"
+]

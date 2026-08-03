@@ -1,0 +1,1 @@
+3367cd5e: Secret is in the only file in puzzle/haystack that does not contain 'hay'.

@@ -1,0 +1,17 @@
+# Weather App
+
+## Big picture
+Application that displays the weather forecast based on the data from a web API.
+
+## Todo
+- [x] Figure out http client/request/response
+- [x] Hook up the weather API
+- [X] Translate API response into JSON
+- [X] Print info from API in command line
+- [X] Create a command line graph
+- [X] Add search by city name feature
+- [X] Fix timing
+- [X] Add colors
+- [X] Get current data
+- [ ] Add more info (like rain)
+- [ ] Display info for more days

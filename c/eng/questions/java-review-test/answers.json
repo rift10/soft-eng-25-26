@@ -1,0 +1,15 @@
+[
+  "public int sum(int a, int b) {\n  return a + b;\n}\n",
+  "private double average(int a, int b) {\n  return (a + b) / 2;\n}\n",
+  "public int randomNumber(int x) {\n  return (int) (x * Math.random());\n}\n",
+  "public int randomNumber(int a, int b) {\n  return (int) (a + Math.random(b - a));\n}\n",
+  "public boolean canSleepIn(boolean isWeekday, boolean isVacation) {\n  return !isWeekday || isVacation;\n}\n",
+  "public boolean getsSpeedingTicket(double mph, boolean copIsGrouchy) {\n  return mph > 70 || (copIsGrouchy && mph > 65);\n}\n",
+  "public String slug(String a, String b, String c) {\n  return (a.toLowerCase() + '-' + b.toLowerCase() + '-' + c.toLowerCase());\n}\n",
+  "public String middle(String x) {\n  int quarter = (int) (x.length() * 0.25);\n  return x.substring(quarter, 3 * quarter);\n}\n",
+  "public int sum(int[] ints) {\n  int sum = 0;\n  for (int i = 0; i < ints.length; i++) {\n    sum += ints[i];\n  }\n  return sum;\n}\n",
+  "public double average(int[] ints) {\n  double avg = 0;\n  for (int i = 0; i < ints.length; i++) {\n    avg += i;\n  }\n  avg /= ints.length\n  return avg;\n}",
+  "public Object randomChoice(Object[] objs) {\n  int index = (int) ((objs.length - 1) * Math.random());\n  return objs[index];\n}\n",
+  "public class Greeter {\n\n  private Greeter greeter;\n  private String greeting;\n  private int times;\n\n  public Greeter(String greeting) {\n    this.greeting = greeting;\n    times = 0;\n  }\n\n  public void greet() {\n    times++;\n    System.out.println(greeting + \".\");\n  }\n\n  public void greet(String name) {\n    times++;\n    System.out.println(greeting + \", \" + name + \".\");\n  }\n\n  public int greetings() {\n    return times;\n  }\n\n  public static void main(String[] args) {\n    greeter = new Greeter(\"hello\");\n    greeter.greet();\n    greeter.greet(\"Mr. Seibel\");\n    greeter.times();\n  }\n}\n",
+  "public class PigLatinGreeter extends Greeter {\n\n  private PigLatinGreeter greeter;\n  private String greeting;\n  private int times;\n\n  public PigLatinGreeter(String greeting) {\n    this.greeting = toPigLatin(greeting);\n    times = 0;\n  }\n\n  @Override\n  public void greet(String name) {\n    times++;\n    System.out.println(greeting + \", \" + toPigLatin(name) + \".\");\n  }\n\n  private String toPigLatin(String x) {\n    return x.substring(1, x.length - 1) + x.charAt(0) + \"ay\";\n  }\n\n  public static void main(String[] args) {\n    greeter = new PigLatinGreeter(\"hello\");\n    greeter.greet();\n    greeter.greet(\"Mr. Seibel\");\n    greeter.times();\n  }\n}\n"
+]

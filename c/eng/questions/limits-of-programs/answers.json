@@ -1,0 +1,23 @@
+[
+  "The decision problem",
+  "Writing a computer program that can determine whether another program will go into an infinite loop.",
+  "No",
+  "No",
+  [
+    "An infinitely long tape.",
+    "Finitely many states that determine what it does next.",
+    "A finite set of symbols.",
+    "The ability to move one cell in either direction on the tape."
+  ],
+  [
+    "What symbol it should leave on the tape given what’s there.",
+    "What direction to move given the symbol on the tape.",
+    "What state it should move to given the symbol on the tape."
+  ],
+  "False",
+  "True",
+  "Assume the thing we want to prove is false.",
+  "False",
+  "False",
+  "Diagonalization"
+]

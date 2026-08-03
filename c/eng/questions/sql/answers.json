@@ -1,0 +1,12 @@
+[
+  [
+    "Structured Query Language"
+  ],
+  "LIMIT",
+  "The columns and computed values we want in the results",
+  "*",
+  "The tables where the data we want comes from.",
+  "The condition that decides whether a row is included in the results",
+  "Distill multiple values into a single value.",
+  "JOIN"
+]

@@ -1,0 +1,49 @@
+# Work Simulation
+
+## Big Picture
+- discrete event simulator
+- answers what changes (what point in the system) when we change different resource variables
+- program to simulate how long things would take with randomness factors
+- uses comparable interfaces to schedule things
+- hospital er example to see how many resources are needed to process patients effectively
+
+## Todo
+- [x] make base interface/comparable structure
+- [x] add priority queue implementation
+- [x] create base event interface structure
+- [x] add scheduling
+- [x] make global time tracking
+  - [x] make time tracking less bad
+- [x] random duration of tasks
+- [x] figure out resources tracking
+  - [x] create resources class (time, rooms, nurses, doctors)
+  - [x] create resources class (time, rooms, nurses, doctors)
+- [x] queueing tasks based on resources
+- [x] have multiple patients
+  - [x] freeing resource events
+  - [x] concurrent patient pipelines (multiple events at one timestamp)
+- [x] random outcome of tasks (task 1 causes task 2 or task 3)
+  - [x] nurse causes discharge or doctor consultation
+  - [x] doctor causes discharge or further care
+- [x] create resource type enum to further generalize free resouce event
+- [x] create inpatient care w/ longer holding times
+
+## Hospital Events Plan w/ descriptions
+- patient arrival
+  - uses 1 room
+  - patient waits random amount of time
+  - schedules nurse triage
+- nurse triage
+  - uses 1 nurse
+  - patient is assigned random level of severity (critical, urgent, non-urgent)
+  - schedules discharge or doctor consultation
+- doctor consultation
+  - uses 1 doctor
+  - patient can either leave w/ medication or get admitted to further care
+  - schedules discharge or further care
+- further care (inpatient ward)
+  - uses 1 further care room
+  - for a longer amount of time
+- free resource
+  - frees any type of resource
+  - also discharges patients

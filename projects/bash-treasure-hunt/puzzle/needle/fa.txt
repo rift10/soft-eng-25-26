@@ -1,0 +1,1 @@
+7f952de9: Secret is in the only file in puzzle/haystack that does not contain 'hay'.

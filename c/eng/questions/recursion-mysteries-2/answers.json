@@ -1,0 +1,12 @@
+[
+  "returns the sum of all the squares from 0-n",
+  "returns n to the power m",
+  "returns the string with all the vowels taken out",
+  "returns true if the string is a palindrome",
+  "returns true if the character c is found in the string s, and false if the character is not found or is not actually one character",
+  "returns the total amount of descendants from one person, including their children and grandchildren and so on",
+  "returns the nearest power of 2 to the given number by returning the count of odd numbers from halving the given number repeatedly",
+  "returns whether the string has an equal amount of open and closed parenthesis",
+  "returns the amount of descendants for a specific person, including their children and grandchildren, etc",
+  "returns a string including all the characters that are the same and in the same order, doesn't matter if there are characters in between. if the characters don't match up at the same index, then it runs itself with one character offset to find the longer of the two matches"
+]

@@ -1,0 +1,2 @@
+just hay here
+83b962f7: Secret is in puzzle/base64.txt. Can you decode it?

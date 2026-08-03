@@ -1,0 +1,16 @@
+This is a place to play with the command line.
+
+Before you start, make sure any work you have on other projects is committed and
+synced to Github so if you completely destroy this codespace you don't lose
+anything important.
+
+Then, right click setup.sh and "Open in Integrated terminal". Then type:
+
+./setup.sh
+
+Then to see more things to try run:
+
+cat commands-to-try.txt
+
+Also look at the two zines I gave you for ideas. For your own sanity, try to
+stay within this project directory.

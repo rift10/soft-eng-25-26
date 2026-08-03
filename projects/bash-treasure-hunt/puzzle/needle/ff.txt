@@ -1,0 +1,2 @@
+needle
+69f4b931: Secret is in the only file in puzzle/haystack that does not contain 'hay'.

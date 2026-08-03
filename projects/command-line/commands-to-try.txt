@@ -1,0 +1,17 @@
+pwd              - print the present working directory
+ls               - list all the files in the current directory
+cat FILE         - print the contents of the file FILE to the terminal
+cd DIRNAME       - change working directory to DIRNAME
+cd ..            - change to the parent directory
+touch FILE       - make an empty file named FILE (or change the timestamp on an existing file)
+date             - print the current date to the terminal
+date > FILE      - print the current date to the file FILE
+cp FILE NEWNAME  - copy a file FILE to NEWNAME
+mkdir DIRNAME    - make a new directory name DIRNAME
+cp FILE DIRNAME  - copy a file FILE into a directory DIRNAME
+ls *.txt         - list all the files ending in .txt in the current directory
+mv FILE DIRNAME  - move a file into a directory dirname
+mv file newname  - rename a file
+rmdir dirname    - remove dirname if it's empty
+wc FILE          - count the words in the file FILE
+grep STRING FILE - print all the lines in FILE that contain STRING

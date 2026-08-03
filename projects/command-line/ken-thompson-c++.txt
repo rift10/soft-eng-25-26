@@ -1,0 +1,52 @@
+From _Coders at Work_
+
+Thompson: I write mostly in C. I do all my test stuff and toy stuff in C while
+Google is C++, strictly C++. It’s no big deal programming in C++, but I don’t
+like it. I resist it.
+
+Seibel: You were at AT&T with Bjarne Stroustrup. Were you involved at all in the
+development of C++?
+
+Thompson: I’m gonna get in trouble.
+
+Seibel: That’s fine.
+
+Thompson} I would try out the language as it was being developed and make
+comments on it. It was part of the work atmosphere there. And you’d write
+something and then the next day it wouldn’t work because the language changed.
+It was very unstable for a very long period of time. At some point I said, no,
+no more.
+
+In an interview I said exactly that, that I didn’t use it just because it
+wouldn’t stay still for two days in a row. When Stroustrup read the interview he
+came screaming into my room about how I was undermining him and what I said
+mattered and I said it was a bad language. I never said it was a bad language.
+On and on and on. Since then I kind of avoid that kind of stuff.
+
+Seibel: Can you say now whether you think it’s a good or bad language?
+
+Thompson: It certainly has its good points. But by and large I think it’s a bad
+language. It does a lot of things half well and it’s just a garbage heap of
+ideas that are mutually exclusive. Everybody I know, whether it’s personal or
+corporate, selects a subset and these subsets are different. So it’s not a good
+language to transport an algorithm—to say, “I wrote it; here, take it.” It’s way
+too big, way too complex. And it’s obviously built by a committee.
+
+Stroustrup campaigned for years and years and years, way beyond any sort of
+technical contributions he made to the language, to get it adopted and used. And
+he sort of ran all the standards committees with a whip and a chair. And he said
+“no” to no one. He put every feature in that language that ever existed. It
+wasn’t cleanly designed—it was just the union of everything that came along. And
+I think it suffered drastically from that.
+
+Seibel: Do you think that was just because he likes all ideas or was it a way to
+get the language adopted, by giving everyone what they wanted?
+
+Thompson: I think it’s more the latter than the former.
+
+Seibel: It seems there are a lot of people who say, “Gosh, C++ is terrible.” Yet
+everyone uses it. For instance, it’s one of Google’s four official languages.
+Why do folks continue to use it if it’s so bad?
+
+Thompson: I don’t know. I think it’s losing at Google. Now there are more people
+who don’t like it than like it.

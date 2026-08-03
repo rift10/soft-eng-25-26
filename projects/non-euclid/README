@@ -1,0 +1,27 @@
+# Non Euclidean Game
+
+## Big Picture
+- 2d game that players can move around in and collect points
+- hyperbolic (maybe spherical?) geometry
+
+## Steps
+- [x] create gui
+    - [x] player class (KeyListener)
+    - [x] tile class (different colors, uses GridGame code)
+    - [x] wasd player movement
+    - [x] paint the player on top of the tiles
+    - [x] create euclidean tiles (squares)
+- [ ] translate euclidean square tiles into hyperbolic
+    - [x] make the tiles trapezoids
+    - [x] make the tiles "on a tube"
+      - [x] add horizontal shrinking to the horizons
+    - [x] use hyperbolic formula ((x, y) = (tanh(r/2)/2)(x, y))
+    - [x] player movement consistent with hyperbolic space
+    - [x] player stays in the center as the map moves
+- [ ] other improvements
+    - [ ] make player face the correct direction
+- [ ] add goals
+    - [ ] world exploration - add different objects
+    - [ ] things to pick up? enemies?
+    - [ ] point tracking
+    - [ ] timed?

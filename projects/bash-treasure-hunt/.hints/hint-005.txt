@@ -1,0 +1,1 @@
+There is a simple command that lets you reverse each line of a file.
